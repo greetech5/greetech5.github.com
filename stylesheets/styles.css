@@ -1,0 +1,26 @@
+#slider {
+    background-image: url(../images/header.jpg);
+    height: 400px;
+    width: 940px;
+}
+#slider h2 {
+    color: gray;
+}
+#slider h3 {
+    color: gray;
+}
+#slider h3 small {
+    color: #ccc;
+    font-size: 50%;
+}
+#slider p {
+    color: gray;
+}
+
+.speakers td.speaker {
+    text-align: center;
+}
+
+.columns ul {
+    padding-left: 1em;
+}
